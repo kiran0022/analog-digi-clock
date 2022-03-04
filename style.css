@@ -41,46 +41,7 @@ body {
     overflow: hidden;
 
 } 
-/* 
-.outer-clock-face::after {
-    transform: rotate(90deg);
-    z-index: -1;
-    
-}
 
-.outer-clock-face::after,
-.outer-clock-face::before,
-.outer-clock-face .marking{
-    content:'';
-    position: absolute;
-    width: 5px;
-    height: 100%;
-    background-color: rgb(78, 161, 238);
-    z-index: 0;
-    left: 49%;
-    
-}
-
-.outer-clock-face .marking {
-    background-color: red;
-    width: 3px;
-}
-
-.outer-clock-face .marking-one {
-    transform: rotate(60deg);
-}
-
-.outer-clock-face .marking-two {
-    transform: rotate(120deg);
-}
-
-.outer-clock-face .marking-three {
-    transform: rotate(30deg);
-}
-
-.outer-clock-face .marking-four {
-    transform: rotate(150deg);
-} */
 
 .inner-clock-face {
     width: 85%;
